@@ -1,3 +1,10 @@
+# A Portfolio Project using Gridsome/VueJs
+
+This project used a Gridsome Portfolio tutorial by Gwen Faraday
+
+This can be found here: [Create a Gridsome Portfolio - Vue.js project](https://youtu.be/laktPX9wyXY)
+
+
 # Default starter for Gridsome
 
 This is the project you get when you run `gridsome create new-project`.
